@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/837068d1-0136-4862-a5cb-e16bd6948ec9)
+
+
+
 ## Conversor de Moedas
 
 Este projeto é um Conversor de Moedas simples, desenvolvido utilizando HTML, CSS e JavaScript. O objetivo é permitir que os usuários convertam valores entre três moedas principais: USD (Dólar Americano), EUR (Euro) e BRL (Real Brasileiro), utilizando taxas de câmbio fixas.

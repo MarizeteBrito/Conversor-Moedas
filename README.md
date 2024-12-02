@@ -31,4 +31,6 @@ O conversor é fácil de usar, sendo ideal para quem deseja fazer conversões r�
 5.Clicar em "Converter": Ao pressionar o botão "Converter", a conversão é realizada, e o resultado é exibido na tela.
 
 ## Autores do Projeto
+![image](https://github.com/user-attachments/assets/09045138-0fa6-4b91-a42e-901c1540d37a)
+
 Marizete Rodrigues Brito
